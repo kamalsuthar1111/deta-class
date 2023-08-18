@@ -1,2 +1,2 @@
 # deta-class
-this is repo for delta students
+this is repo for delta students.
